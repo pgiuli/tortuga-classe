@@ -14,6 +14,5 @@ tortuga.forward(100)
 tortuga.left(90)
 tortuga.forward(100)
 tortuga.left(90)
-tortuga.goto(0, 200)
 
 

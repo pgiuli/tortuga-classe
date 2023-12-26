@@ -3,7 +3,7 @@ colors = ['red', 'purple', 'blue', 'green']
 turtle.pu()
 turtle.speed(10)
 turtle.pensize(5)
-turtle.goto(-150,150)
+turtle.goto(-50,150)
 for _ in range(4):
     for i in range(4):
         turtle.pd()
@@ -21,6 +21,9 @@ for _ in range(4):
     turtle.backward(50)
     turtle.rt(90)
     turtle.forward(50)
+
+turtle.done()
+
 
 # Less lines
     
@@ -42,3 +45,4 @@ for _ in range(4):
     turtle.backward(50)
     turtle.rt(90)
     turtle.forward(50)
+
