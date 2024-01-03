@@ -1,4 +1,3 @@
-#Draw a fractal tree using the turtle module
 import turtle
 import random
 
